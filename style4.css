@@ -1,0 +1,345 @@
+body{
+    background-color: rgb(103, 190, 164);
+    }
+    li {
+        float: left;
+      }
+      
+      a {
+        display: block;
+        padding: 8px;
+        background-color: rgb(39, 106, 164);
+        width: fit-content;
+        height: fit-content;
+        
+      }
+      ul {
+        background-color: #dddddd;
+      }
+      ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: auto;
+        background-color: rgb(25, 16, 52);
+      }
+      li {
+        float: left;
+      }
+      li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      li a:hover {
+        background-color: #111;
+      }
+      #head{
+        font-family: "new-order", sans-serif;
+       font-size: 65px;
+       font-weight: 700;
+       font-style:normal;
+       text-align: center;
+       text-decoration: overline;
+      }
+      #home{
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+      }
+      #lunch{
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+      }
+      #dinner{
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+      }
+      #plan{
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+      }
+      
+      
+      #meal {
+        font-family: Arial, Helvetica, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+      }
+      #meal td, #meal th {
+        border: 1px solid #ddd;
+        padding: 15px;
+      }
+      #mealtr:nth-child(even){background-color: #f2f2f2;}
+
+#meal tr:hover {background-color: #ddd;}
+
+#meal th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #336585;
+  color: white;
+}
+#subject{
+  position: absolute;
+  width: 175px;
+  margin-left: 10.2%;
+  margin-top: 3%;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #0f273c;
+  color: white;
+}
+#subject2{
+  position: absolute;
+  width: 175px;
+  margin-left: 22.5%;
+  margin-top: 3%;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #0f273c;
+  color: white;
+}
+#subject3{
+  position: absolute;
+  width: 200px;
+  margin-left: 36%;
+  margin-top: 3%;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #0f273c;
+  color: white;
+}
+
+#subject4{
+  position: absolute;
+  width: 185px;
+  margin-left: 50.5%;
+  margin-top: 3%;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color:#0f273c;
+  color: white;
+}
+
+#subject5{
+  position: absolute;
+  width: 150px;
+  margin-left: 64%;
+  margin-top: 3%;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #0f273c;
+  color: white;
+}
+
+#subject6{
+  position: absolute;
+  width: 170px;
+  margin-left: 75%;
+  margin-top: 3%;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color:#0f273c;
+  color: white;
+}
+
+#subject7{
+  position: absolute;
+  width: 175px;
+  margin-left: 10.2%;
+  margin-top: -16.5%;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #0f273c;
+  color: white;
+}
+
+#subject8{
+  position: absolute;
+  width: 175px;
+  margin-left: 22.5%;
+  margin-top: -16.5%;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #0f273c;
+  color: white;
+}
+#subject9{
+  position: absolute;
+  width: 200px;
+  margin-left: 36%;
+  margin-top: -16.5%;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #0f273c;
+  color: white;
+}
+#subject10{
+  position: absolute;
+  width: 190px;
+  margin-left: 50.5%;
+  margin-top: -16.5%;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #0f273c;
+  color: white;
+}
+#subject11{
+  position: absolute;
+  width: 150px;
+  margin-left: 64%;
+  margin-top: -16.5%;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #0f273c;
+  color: white;
+}
+#subject12{
+  position: absolute;
+  width: 160px;
+  margin-left: 75%;
+  margin-top: -16.5%;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #0f273c;
+  color: white;
+}
+#subject13{
+  position: absolute;
+  width: 160px;
+  margin-left: 87.5%;
+  margin-top: -16.5%;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #0f273c;
+  color: white;
+}
+#subject14{
+  position: absolute;
+  width: 160px;
+  margin-left: 87.5%;
+  margin-top: 3%;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #0f273c;
+  color: white;
+}
+
+
+#subject15{
+  position: absolute;
+  width: 175px;
+  margin-left: 10.2%;
+  margin-top: -6.7%;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #0f273c;
+  color: white;
+}
+#subject16{
+  position: absolute;
+  width: 175px;
+  margin-left: 22.5%;
+  margin-top: -6.7%;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #0f273c;
+  color: white;
+}
+#subject17{
+  position: absolute;
+  width: 200px;
+  margin-left: 36%;
+  margin-top: -6.7%;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #0f273c;
+  color: white;
+}
+#subject18{
+  position: absolute;
+  width: 190px;
+  margin-left: 50.5%;
+  margin-top: -6.7%;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color:#0f273c;
+  color: white;
+}
+#subject19{
+  position: absolute;
+  width: 150px;
+  margin-left: 64%;
+  margin-top: -6.7%;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #0f273c;
+  color: white;
+}
+#subject20{
+  position: absolute;
+  width: 160px;
+  margin-left: 75%;
+  margin-top: -6.7%;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #0f273c;
+  color: white;
+}
+#subject21{
+  position: absolute;
+  width: 160px;
+  margin-left: 87.5%;
+  margin-top: -6.7%;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #0f273c;
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

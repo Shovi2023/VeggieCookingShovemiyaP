@@ -1,0 +1,129 @@
+body{
+background-color: rgb(159, 131, 91);
+}
+li {
+    float: left;
+  }
+  
+  a {
+    display: block;
+    padding: 8px;
+    background-color: rgb(19, 142, 35);
+    width: fit-content;
+    height: fit-content;
+  }
+  ul {
+    background-color: #dddddd;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+    background-color: rgb(15, 78, 23);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+  #image2{
+    margin-left: 35px;
+    height: 300px;
+    width: 1370px;
+    box-align:center;
+  }
+
+  input {
+    width: 100%;
+    height: fit-content;
+    padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  }
+  input[type=text] {
+    border: 2px solid rgb(19, 128, 17);
+    border-radius: 4px;
+  }
+  input[type=button], input[type=submit], input[type=reset] {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #085313;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  #head1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 800;
+    font-size: 30px;
+  }
+  #home{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  }
+  #lunch{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  }
+  #dinner{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  }
+  #plan{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  }
+  #par1 {
+font-family: "new-order", sans-serif;
+font-size: 20px;
+font-weight: 500;
+font-style:normal;
+text-align:justify;
+margin-left: 35px;
+  }
+
+#icon1{
+  position:relative;
+  height: 300px;
+  width: 300px;
+  margin-left: 50px;
+}
+#icon2{
+  position: relative;
+  height: 300px;
+  width: 300px;
+  margin-left: 200px;
+  mix-blend-mode:darken;
+
+}
+#icon3{
+  position: relative;
+ 
+  height: 300px;
+  width: 300px;
+  margin-left: 250px;
+  margin-bottom: 0%;
+}
+#head{
+  font-family: "new-order", sans-serif;
+font-size: 65px;
+font-weight: 700;
+font-style:normal;
+text-align: center;
+text-decoration: overline;
+}
+#par17{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 17px;
+}
